@@ -1,0 +1,1 @@
+A menu driven program that reads data from a file. Prepares an inventory report stores the result into a linked list and displays the list data.
